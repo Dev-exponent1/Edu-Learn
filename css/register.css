@@ -1,8 +1,16 @@
 .regdiv{
     margin-top: 80px;
-    background-image: url(../pictures/image22.jpg);
+    background-image: linear-gradient(to bottom right, rgba(8, 8, 8, 0.664), rgba(24, 22, 22, 0.857)), url(../pictures/image22.jpg);
     background-size: cover;
     border-radius: 5px;
     background-position: center;
-    padding: 15px;
+}
+
+.register{
+    color: black;
+}
+
+.signUp{
+   font-weight: bold;
+
 }
