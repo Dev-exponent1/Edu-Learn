@@ -1,9 +1,5 @@
 .regdiv{
     margin-top: 80px;
-    background-image: linear-gradient(to bottom right, rgba(8, 8, 8, 0.664), rgba(24, 22, 22, 0.857)), url(../pictures/image22.jpg);
-    background-size: cover;
-    border-radius: 5px;
-    background-position: center;
 }
 
 .register{
@@ -17,12 +13,18 @@
 
 
 .form-control{
-    margin: 40px 0;
+    margin: 35px 0;
 }
+
+.btn{
+    margin: 25px 0;
+
+}
+
 .toggle{
     position: absolute;
     left: 90%;
-    bottom: 41.5%;
+    bottom: 51%;
 }
 
 
