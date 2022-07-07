@@ -14,3 +14,33 @@
    font-weight: bolder;
 
 }
+
+
+.form-control{
+    margin: 40px 0;
+}
+.toggle{
+    position: absolute;
+    left: 90%;
+    bottom: 41.5%;
+}
+
+
+
+
+
+@media (max-width:510px){
+    .toggle{
+        left: 87%;        
+        bottom: 41.5%;
+    }
+    
+}
+
+@media (max-width:410px) {
+    .toggle{
+        bottom: 46%;
+    }
+    
+}
+
