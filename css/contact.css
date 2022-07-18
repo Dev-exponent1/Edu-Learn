@@ -1,0 +1,22 @@
+.contact{
+    margin-top: 85px;
+    background-image: url('../Pictures/contact.jpg');
+    background-position: center;
+    background-size: cover 80%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+}
+
+.contactText{
+    color: white;
+    font-weight: bolder;
+    font-size: 60px;
+    text-align: center;
+    line-height: 240px;
+}
+
+.find{
+    font-weight: bolder;
+    font-size: 37px;
+}
