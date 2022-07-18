@@ -12,5 +12,12 @@
 
 .card-img-top{
     border-radius: 1000px;
-    padding-top: 10px;
+    padding: 10px 10px 0 10px;
+
+}
+
+.Social-links a{
+    display: inline-block;
+    margin: 8px 3px;
+    color: gray;
 }
