@@ -12,7 +12,7 @@
 
 .card-img-top{
     border-radius: 1000px;
-    padding: 10px 10px 0 10px;
+    padding: 10px 50px 0 50px;
 
 }
 
@@ -20,4 +20,15 @@
     display: inline-block;
     margin: 8px 3px;
     color: gray;
+}
+
+.card{
+    background: none;
+    border: none;
+}
+
+.teams{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 2px 2px #888888;
 }
