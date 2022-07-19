@@ -32,3 +32,35 @@
     border-radius: 10px;
     box-shadow: 2px 2px #888888;
 }
+
+.teamLead{
+    width: 50%;
+}
+
+.leadText{
+    text-align: center;
+}
+
+
+@media (max-width:575px){
+    .teamLead{
+        width: 100%;
+    }
+
+    .leadText{
+        text-align: left;
+    }
+}
+
+
+@media (max-width:767px){
+
+    .card-title{
+        font-size: 19px;
+    }
+    .card-text{
+        font-size: 13px;
+    }
+
+
+}
